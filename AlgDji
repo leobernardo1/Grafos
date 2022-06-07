@@ -2,6 +2,7 @@
 Algoritmo de Dijkstra
 Definir qtde de arestas, origem, destino e custo
 No final, mostrar o menor custo entre as arestas
+Linguagem: C
 */
 
 #include <stdio.h>
